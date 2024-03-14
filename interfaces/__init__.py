@@ -1,0 +1,2 @@
+from .movie_service_interface import MovieServiceInterface
+from .movie_repository_interface import MovieRepositoryInterface
